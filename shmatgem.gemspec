@@ -9,13 +9,13 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andrey Shmatko"]
   spec.email         = ["shmatuan@gmail.com"]
 
-  if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
-  end
+  # if spec.respond_to?(:metadata)
+  #   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
+  # end
 
-  spec.summary       = %q{Write a short summary}
-  spec.description   = %q{Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Colorize and some pics}
+  spec.description   = %q{Colorize puts and some char pics onload.}
+  spec.homepage      = "https://github.com/ShmatkoAndrey/smatgem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

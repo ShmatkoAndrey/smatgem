@@ -1,3 +1,3 @@
 module Shmatgem
-  VERSION = "0.3.0"
+  VERSION = '0.10.0'
 end
