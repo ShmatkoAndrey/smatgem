@@ -25,21 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shmatgem.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shmatgem.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/shmatgem.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.18967333">
               <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shmatgem.gemspec" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shmatgem.gemspec" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shmatgem.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.341412">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/shmatgem/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -52,6 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/shmatgem.rb" />
         <option value="$PROJECT_DIR$/shmatgem.gemspec" />
+        <option value="$PROJECT_DIR$/lib/shmatgem/version.rb" />
       </list>
     </option>
   </component>
@@ -121,6 +132,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shmatgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shmatgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shmatgem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,18 +296,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/shmatgem.rb">
+    <entry file="file://$PROJECT_DIR$/lib/shmatgem/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shmatgem.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.341412">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shmatgem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18967333">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
