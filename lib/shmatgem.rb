@@ -7,6 +7,6 @@ require 'shmatgem/Colorize'
 
 module Shmatgem
 
-  puts Pics.new.random .blue
+  # puts Pics.new.random .blue
 
 end

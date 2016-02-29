@@ -18,6 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
+Bacground colors: bg_black, bg_red, bg_green, bg_brown, bg_blue, bg_magenta, bg_cyan, bg_gray
+Text colors: black, red, green, brown, blue, magenta, cyan, gray
+Text decoration: bold, italic, underline, reverse_color
+
 ```ruby
 puts 'Hello'.red # for colorize text
 puts 'Hello'.bg_green # for colorize background
